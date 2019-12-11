@@ -1,7 +1,5 @@
 # LED earrings - Heart 1
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 .....
 
 ## Design files
