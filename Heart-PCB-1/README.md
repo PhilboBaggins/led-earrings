@@ -1,6 +1,8 @@
 # LED earrings - Heart 1
 
-.....
+A little board with self flashing LEDs on the front and a coin cell battery holder on the back. I probably won't load all the LEDs but I put all the footprints there so I had choices of where to put them. The whole point of this board is to look nice so there are no silkscreen designators; it should be pretty obvious which parts go where though (only 2 different parts with very different footprints).
+
+The board's outline was created with the heart shape in the [Board outline](../Board%20outline) directory.
 
 ## Design files
 
