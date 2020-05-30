@@ -1,5 +1,7 @@
 # LED earrings - Heart 2
 
+![board-photo.jpg](board-photo.jpg)
+
 A little board with self flashing LEDs and a coin cell battery holder on the back, nothing on the front. The whole point of this board is to look nice so there are no silkscreen designators; it should be pretty obvious which parts go where though (only 2 different parts with very different footprints).
 
 The copper pour on the top of the board serves no practical purpose; it's just there to affect the colour of the board and to hopefully create a brighter area around the outside of the board (where there is no pour), which the light from the LED will hopefully shine through more. This pour was originally supposed to be a "Diamond Grid Hatched" style pour, which looked nice but when I exported the gerbers with this style of pour the top copper layer came out blank - looks like a bug in Upverter. For now I've just changed the pour back to a solid pour.
